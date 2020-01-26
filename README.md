@@ -1,5 +1,6 @@
 # StratumFive - Coding Challenge
-
+## COMPLETED
+SampleInput.txt contains the sample input from below. Output.txt is a blank text file. Run SurveyShips.py and the program output will be written to Output.txt.
 ## Introduction
 Welcome to the StratumFive Coding Challenge. Please take ten minutes to carefully read through this document before starting the challenge.
 * We expect you to spend in the region of a few hours on this challenge. If you do not complete it then please still submit your work.
